@@ -1,4 +1,5 @@
-**Hi, I'm Ruan! <img src="./images/programming.gif" width="50">**
+**Hi, I'm Ruan! 
+<img src="./images/programming.gif" width="100">**
 
 * * *
 
