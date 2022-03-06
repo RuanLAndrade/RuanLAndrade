@@ -1,11 +1,10 @@
-**Hi, I'm Ruan! 
-**
-** <img src="./images/programming.gif" width="100"> **
+**Hi, I'm Ruan!**
+><img src="./images/programming.gif" width="150">
 
 * * *
 
 **About me:**
-- 💻 I'm web developer since 2016
+- 💻 I'm web developer since 2021
 - ⚛️ JavaScript | NodeJS | React
 - 🚀 I'm a educator and content creator at [Kingdom]
 - 📝 I'm graduating in Analysis and systems development
